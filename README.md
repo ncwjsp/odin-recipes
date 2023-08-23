@@ -9,7 +9,7 @@ Skill demonstrated : Basic HTML
 After project reviewing :
 I considered this project an easy one but it was very useful too!
 
-What I've got from doing this project :
+What I've learned from doing this project :
     - How to build basic structure for webpages
     - Getting familiar with
         - Anchor tags
