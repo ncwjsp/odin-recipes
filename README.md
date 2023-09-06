@@ -20,3 +20,6 @@ What I've learned from doing this project :
 
 And that's it for this project.
 Thank you for observing my small pieces of work :)
+
+Preview:
+https://ncwjsp.github.io/odin-recipes/
